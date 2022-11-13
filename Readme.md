@@ -1,4 +1,4 @@
-# OpenAIPtoCSV Converter for LitteNavMap
+# OpenAIPtoCSV Converter for Litte Navmap
 
 Author: Detlev Hoffmann (info at gunduran.de)
 
