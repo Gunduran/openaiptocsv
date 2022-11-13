@@ -1,0 +1,9 @@
+google
+google-api-core
+google-auth
+google-cloud
+google-cloud-core
+google-cloud-storage
+google-crc32c
+google-resumable-media
+googleapis-common-protos
