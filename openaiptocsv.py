@@ -10,7 +10,7 @@ import argparse
 import os.path
 from pathlib import Path
 
-PROGRAM_VERSION = 1.1
+PROGRAM_VERSION = 1.3
 
 destination_file_name = Path(".", "openAIP_files")
 destination_csv_file_name = Path(".", "Userpoints") 

@@ -47,12 +47,6 @@ Now, wheter in the virtual environment or in the global python installation, you
 
 * `python openaiptocsv.py -i EDDK -c de` creates the points for Cologne
 
->Standard folders
-
-`\openAIP_files\` - Storage for the downloaded files
-
-`\Userpoints\` - created user points
-
 ## Default folders
 
 | Folder | Description |
@@ -64,8 +58,4 @@ Now, wheter in the virtual environment or in the global python installation, you
 
 ## Version history
 
-1.0 - Inital version
-
-1.1 - updated readme.md
-
-1.2 - updated readme.md again
+1.3 Initial Version
